@@ -1,3 +1,4 @@
+# 测试表
 CREATE TABLE `users` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `uname` varchar(30) NOT NULL DEFAULT '',
